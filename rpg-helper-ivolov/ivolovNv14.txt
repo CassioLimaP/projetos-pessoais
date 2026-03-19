@@ -1,0 +1,104 @@
+ivolov inovich
+bordao:
+uma mao-     +8    1d6+3(conc)
+duas maos-  +8    1d8+3(conc)
+push: 12 str
+topple: 12 dex
+stunning strike: 12 con
+cook utensils
+explorer pack
+mess kit
+healers kit 
+dice set 
+tinder box
+backpack
+proeficiencia:
+1-armas simples
+2-espadas curtas
+linguagens:
+1-comum
+2-orc
+monk Lv14
+soldier
+cassio
+chaotic good
+Human
+healers kit:
+      A Healer's Kit has ten uses. As a Utilize 
+action, you can expend one of its uses to 
+stabilize an Unconscious creature that has 0 
+Hit Points without needing to 
+[  ][  ][  ][  ][  ][  ][  ][  ][  ][  ] usages
+Wholeness of Body Healing:
+       You can regain hit points equal to three 
+times your monk level.(30)
+[  ] usage
+bonus actions:
+Martial Arts Bonus Attack:
+       When you use the Attack action with an 
+unarmed strike or a monk weapon on your 
+turn, you can make one unarmed
+Flurry of Blows (use ki):
+        Immediately after you take the Attack 
+action on your turn, you can spend 1 ki point to 
+make two unarmed strikes as a bonus action.
+Patient Defense (use ki):
+         You can spend 1 ki point to take the 
+Dodge action as a bonus action on your turn.
+Step of the Wind (use ki): 
+         You can spend 1 ki point to take the 
+Disengage or Dash action as a bonus action 
+on your turn, and your jump distance is 
+doubled for the turn.
+KI: [  ] [  ]  [  ]  [  ]  [  ]  [  ]  [  ]  [  ]  [  ]  [  ]  [  ]  
+[  ]  [  ]  [  ]
+(descanso longo ou curto)
+reactions:
+deflect missiles
+slow fall
++8
+55ft
+13
+13
+1
+16
+316
+3
+-18
+10
+112
+0
+115
+115
+Unarmed Strike
+Martial Arts
++8
++8
+4 (concus)
+1d8+3
+10
+5
+7
+3
+-1
+0
+1
++8
+-1
++8
++1
++1
++3
++4
++6
+0
+-1
+0
+0
+-1
+0
++6
++3
+-1
+0
+

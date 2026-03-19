@@ -1,0 +1,221 @@
+RAÇA
+CLASSE E NÍVEL
+NOME DO JOGADOR
+NOME DO PERSONAGEM
+ANTECEDENTE
+PONTOS DE EXPERIÊNCIA
+TENDÊNCIA
+EQUIPAMENTO
+PV Totais
+Força
+Destreza
+Constituição
+Inteligência
+Sabedoria
+Carisma
+PC
+PE
+PL
+PO
+PP
+SABEDORIA PASSIVA (PERCEPÇÃO)
+IDIOMAS E OUTRAS PROFICIÊNCIAS
+ATAQUES E MAGIAS
+CARACTERÍSTICAS E HABILIDADES
+Acrobacia (Des)
+Arcanismo (Int)
+Atletismo (For)
+Atuação (Car)
+Blefar (Car)
+Furtividade (Des)
+História (Int)
+Intimidação (Car)
+Intuição (Sab)
+Investigação (Int)
+Lidar com Animais (Sab)
+Medicina (Sab)
+Natureza (Int)
+Percepção (Sab)
+Persuasão (Car)
+Prestidigitação (Des)
+Religião (Int)
+Sobrevivência (Sab)
+TESTES CONTRA A MORTE
+DADOS DE VIDA
+NOME
+BÔNUS
+Total
+SUCESSOS
+FRACASSOS
+IDEAIS
+LIGAÇÕES
+DEFEITOS
+TRAÇOS DE PERSONALIDADE
+CLASSE
+ARMD
+PONTOS DE VIDA ATUAIS
+PONTOS DE VIDA TEMPORÁRIOS
+INICIATIVA
+DESLOC.
+BÔNUS DE PROFICIÊNCIA
+FORÇA
+DESTREZA
+CONSTITUIÇÃO
+INTELIGÊNCIA
+SABEDORIA
+CARISMA
+TESTES DE RESISTÊNCIA
+INSPIRAÇÃO
+PERÍCIAS
+DANO / TIPO
+TM & © 2014 Wizards of the Coast LLC. Cópia permitida apenas para uso pessoal. Tradução: Johny Robert | johnyrobert@icloud.com
+Bardo Lv.04
+Artista
+Cassio
+Edrick de Lamar
+Humano de Freljord
+10
++2
+13
+2
+9m
+0
+0
+15
+2
+14
+3
+2
+d8
+14
+4
+2
+2
+0
+7
+4
+2
+7
+7
+2
+Lança
+1d6\Per
+2
+5
+Adaga
++2
+2
+1d\Per
+0
+10
+0
+0
+0
+20
+0
+2
+2
+7
+2
+0
+39
+39
+4
+5
+0
+Va-Nox, Freljordian.
+Voz, Piano, Lute,
+Armaduras Leves, Médias, 
+Escudos.
+Armas Simples, Armas 
+Marciais, Bestas de Mão, 
+Espadas Longas, Rapieiras.
+Kit de Disfarce.
+110
+Armadura de Couro
+Adaga
+Lança
+Pacote de Artista
+Familiaridade de Terreno
+Atacante Bestial
+Inspiração (4x)
+Versatilidade (+1)
+Canção de Descanso (1d6)
+Colégio de Bardo
+Aptidão (Persuasão, 
+Prestidigitação. (+4))
+Colégio de Bardo
+  >Colégio da Bravura
+Proficiência Adicional
+Inspiração em Combate
+ 
+ 
+Limpar
+NOME DO PERSONAGEM
+OLHOS
+IDADE
+PESO
+ALTURA
+CABELOS
+PELE
+NOME
+HISTÓRIA DO PERSONAGEM
+APARÊNCIA DO PERSONAGEM
+OUTRAS CARACTERÍSTICAS E HABILIDADES
+ALIADOS E ORGANIZAÇÕES
+SÍMBOLO
+TESOURO
+TM & © 2014 Wizards of the Coast LLC. Cópia permitida apenas para uso pessoal. Tradução: Johny Robert | johnyrobert@icloud.com
+TM & © 2014 Wizards of the Coast LLC. Cópia permitida apenas para uso pessoal. Tradução: Johny Robert | johnyrobert@icloud.com
+CLASSE DE CONJURADOR
+MAGIAS CONHECIDAS
+NOME DA MAGIA
+P
+R
+E
+P
+A
+R
+A
+NÍVEL
+MAGIA
+ESPAÇOS USADOS
+ESPAÇOS TOTAL
+1
+0
+2
+3
+6
+7
+8
+9
+4
+5
+HABILIDADE CHAVE
+CD DO TR
+BÔNUS DE ATAQUE
+TRUQUES
+D
+Bardo
+Carisma
+15
+7
+4
+Zombaria Viciosa
+Riso Histérico de Tasha
+Mãos Mágicas
+Mensagem
+Palavra curativa
+G
+G
+G
+G
+Sussurros Dissonantes
+Imagem Silenciosa
+3
+Silêncio
+Nuvem de Adagas
+Aprimorar Habilidade
+G
+G
+G
