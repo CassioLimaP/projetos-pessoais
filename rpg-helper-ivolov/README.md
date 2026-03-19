@@ -14,4 +14,4 @@ passou uns 3 meses mais ou menos ate eu voltar a mecher com esse projeto e reali
 entao agora estou estudando duas bibliotecas de data mining (pdfminer.six e pyMuPDF) o primeiro eu nao consegui usar muito bem apesar de que nao tentei muito e o segundo me deu um avanco muito grande pois eu consegui quase todas as informacoes do pdf em um txt nao formatado(obviamente) com mais noticias eu aviso 19/3/26. 
 [ficha pdf ivolov](ivolovNv14.pdf)
 [texto Ivolov ](ivolovNv14.txt)
-[layout ficha rpg](layout-Edrick de Lamar Ficha.pdf)
+[layout ficha rpg]("layout-Edrick de Lamar Ficha.pdf")
